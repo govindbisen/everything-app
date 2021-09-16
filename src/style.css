@@ -1,0 +1,12 @@
+.mobiles{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 2 rem;
+    gap:10 px
+}
+
+.mobile-card{
+    background-color: beige;
+
+}
